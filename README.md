@@ -1,0 +1,2 @@
+# iPadgw
+Golfweek Magazine iPad
